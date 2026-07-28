@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Alexander Caldwell
+#title: Alexander Caldwell
 ---
-
-I design and build websites and digital experiences.
 
 ## About
 
