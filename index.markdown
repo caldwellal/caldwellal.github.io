@@ -1,14 +1,14 @@
 ---
 layout: home
-#title: Alexander Caldwell
+title:
 ---
 
-## About
+<h1>About</h1>
 
 I'm a developer who enjoys turning ideas into clean, functional websites.  
 This site is built with Jekyll and hosted on GitHub Pages.
 
-## Skills
+<h1>Skills</h1>
 
 **Front-End**  
 JavaScript · TypeScript · React · Next.js · HTML/CSS · Responsive Design
@@ -25,7 +25,7 @@ Node.js · REST APIs · JSON · Data Transformation
 **Other Strengths**  
 Technical Documentation · Troubleshooting · Agile/Scrum · Stakeholder Support
 
-## Contact
+<h1>Contact<h1>
 
 Feel free to reach out:
 
