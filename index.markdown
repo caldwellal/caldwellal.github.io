@@ -25,7 +25,7 @@ Node.js · REST APIs · JSON · Data Transformation
 **Other Strengths**  
 Technical Documentation · Troubleshooting · Agile/Scrum · Stakeholder Support
 
-<h1>Contact<h1>
+<h1>Contact</h1>
 
 Feel free to reach out:
 
