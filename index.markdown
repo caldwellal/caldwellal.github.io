@@ -3,18 +3,12 @@ layout: home
 title: Alexander Caldwell
 ---
 
-# Hi, I'm Alexander Caldwell
-
 I design and build websites and digital experiences.
-
-<br>
 
 ## About
 
 I'm a developer who enjoys turning ideas into clean, functional websites.  
 This site is built with Jekyll and hosted on GitHub Pages.
-
-<br>
 
 ## Skills
 
@@ -32,8 +26,6 @@ Node.js · REST APIs · JSON · Data Transformation
 
 **Other Strengths**  
 Technical Documentation · Troubleshooting · Agile/Scrum · Stakeholder Support
-
-<br>
 
 ## Contact
 
