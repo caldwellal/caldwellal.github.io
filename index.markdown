@@ -3,12 +3,12 @@ layout: home
 title:
 ---
 
-<h1>About</h1>
+<h3>About</h3>
 
 I'm a developer who enjoys turning ideas into clean, functional websites.  
 This site is built with Jekyll and hosted on GitHub Pages.
 
-<h1>Skills</h1>
+<h3>Skills</h3>
 
 **Front-End**  
 JavaScript · TypeScript · React · Next.js · HTML/CSS · Responsive Design
@@ -25,7 +25,7 @@ Node.js · REST APIs · JSON · Data Transformation
 **Other Strengths**  
 Technical Documentation · Troubleshooting · Agile/Scrum · Stakeholder Support
 
-<h1>Contact</h1>
+<h3>Contact</h3>
 
 Feel free to reach out:
 
